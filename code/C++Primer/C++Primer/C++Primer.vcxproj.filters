@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C++Primer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StrBlob.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sales_data.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HasPtr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HasPtr_Point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StrVec.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckStringLength.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Quote.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Bulk_quote.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Disc_quote.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Basket.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Blob.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugDelete.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StrBlob.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="testDeleter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sales_data.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="studyCopy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HasPtr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HasPtr_Point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StrVec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintString.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckStringLength.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Quote.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Bulk_quote.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Disc_quote.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="controlStudy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Basket.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Blob.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugDelete.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test.txt">
+      <Filter>源文件</Filter>
+    </Text>
+    <Text Include="nums.txt">
+      <Filter>源文件</Filter>
+    </Text>
+    <Text Include="jishu.txt">
+      <Filter>源文件</Filter>
+    </Text>
+    <Text Include="oushu.txt">
+      <Filter>源文件</Filter>
+    </Text>
+    <Text Include="rules.txt">
+      <Filter>源文件</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
